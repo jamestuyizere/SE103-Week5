@@ -1,0 +1,5 @@
+Project owner: James Tuyizere
+I started shell practice for SE103-Week5.
+My first attempt had an error in the command.
+I fixed the command and got a success result.
+Saving command output helps me review my work later.

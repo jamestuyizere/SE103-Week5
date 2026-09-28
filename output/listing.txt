@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 2 james james 4096 Sep 28 17:47 .
+drwxr-xr-x 7 james james 4096 Sep 28 17:39 ..
+-rw-r--r-- 1 james james    0 Sep 28 17:42 .gitkeep
+-rw-r--r-- 1 james james  217 Sep 28 17:47 journal.txt
