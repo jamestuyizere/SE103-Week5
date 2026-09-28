@@ -1,0 +1,13 @@
+Student Name: James Tuyizere
+
+What I practiced in the shell:
+I practiced redirecting command output into files using > and >>. I also used grep to search for specific text inside a file. I used find to locate files and practiced connecting commands with a pipe. I also learned how wildcards can match several files at once. These exercises helped me understand how shell commands can work together more efficiently.
+
+How GitHub changed my submission habits:
+GitHub has helped me organize my assignments better. I can use commits to keep a clear history of my work instead of only keeping one final version. Pushing my work to GitHub also gives me an online copy of the project. It makes my submission easier to check and helps me build good version-control habits.
+
+One mistake I made and how I fixed it:
+One mistake I made was entering a command incorrectly and getting an unexpected result. I checked the command carefully and compared it with the required syntax. After correcting it, I ran the command again successfully. This taught me to read errors carefully before trying random fixes.
+
+Why the repository name had to be exactly SE103-Week5:
+The repository name must be exactly SE103-Week5 so the automated checker can find the assignment. If the name is different, the checker may report that required work is missing.
