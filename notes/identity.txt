@@ -1,0 +1,4 @@
+Full Name: James Tuyizere
+GitHub Username: jamestuyizere
+Date Started: 09/28/2026
+Auth Method: SSH
