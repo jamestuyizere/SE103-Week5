@@ -1,0 +1,8 @@
+Student Name: James Tuyizere
+GitHub Username: jamestuyizere
+Repository: SE103-Week5
+Repository URL: https://github.com/jamestuyizere/SE103-Week5
+All required files are on main: Yes
+
+One thing I would improve next time:
+Next time, I would check the required file names and folder structure before starting each task. I would also use git status more often so I can catch missing or untracked files before committing.
